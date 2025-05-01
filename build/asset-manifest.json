@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38c73d3e.css",
+    "main.js": "/static/js/main.a10ae9b8.js",
+    "static/js/787.a86f3764.chunk.js": "/static/js/787.a86f3764.chunk.js",
+    "static/media/ED-Horizontal_2-color_Logo.png": "/static/media/ED-Horizontal_2-color_Logo.6e606316309fd2203389.png",
+    "index.html": "/index.html",
+    "static/media/chevron_down_small.svg": "/static/media/chevron_down_small.11fe57740e44d20d98def1c10651fe56.svg",
+    "static/media/glyph_x.svg": "/static/media/glyph_x.d6eb74b91039de5a0aa590cf76e1e8a5.svg",
+    "static/media/chevron_up_small.svg": "/static/media/chevron_up_small.14c41c880f9402ce73640ccccbe8da7d.svg",
+    "main.38c73d3e.css.map": "/static/css/main.38c73d3e.css.map",
+    "main.a10ae9b8.js.map": "/static/js/main.a10ae9b8.js.map",
+    "787.a86f3764.chunk.js.map": "/static/js/787.a86f3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c73d3e.css",
+    "static/js/main.a10ae9b8.js"
+  ]
+}
